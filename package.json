@@ -1,0 +1,12 @@
+{
+  "name": "accidents-happen",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jackreichelt/accidents-happen.git",
+  "author": "Jack Reichelt <jackreichelt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "base64-js": "^1.2.1",
+    "ws": "^3.0.0"
+  }
+}
